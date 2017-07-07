@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-audittrail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Track dates and users of every create or update operation. Compare versions of documents.",
   "main": "src/index.js",
   "scripts": {
