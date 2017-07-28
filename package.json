@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-audittrail",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Track dates and users of every create or update operation. Compare versions of documents.",
   "main": "src/index.js",
   "scripts": {
@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/MEANFactory/mf-mongoose-audittrail#readme",
   "dependencies": {
-    "mf-utils-node": ">=1.0.5",
+    "mf-utils-node": ">=1.0.6",
     "mongoose": "^4.11.4"
   },
   "devDependencies": {
